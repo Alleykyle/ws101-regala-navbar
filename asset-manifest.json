@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ws101-regala-navbar/static/css/main.0083c70d.css",
+    "main.js": "/ws101-regala-navbar/static/js/main.c25dd9fc.js",
+    "static/media/about.jpg": "/ws101-regala-navbar/static/media/about.9ca1f5c90a5e24966074.jpg",
+    "static/media/contact.jpg": "/ws101-regala-navbar/static/media/contact.06a5bf829537615e8694.jpg",
+    "static/media/squad.jpg": "/ws101-regala-navbar/static/media/squad.1cf3afffa1b05989d529.jpg",
+    "index.html": "/ws101-regala-navbar/index.html",
+    "main.0083c70d.css.map": "/ws101-regala-navbar/static/css/main.0083c70d.css.map",
+    "main.c25dd9fc.js.map": "/ws101-regala-navbar/static/js/main.c25dd9fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0083c70d.css",
+    "static/js/main.c25dd9fc.js"
+  ]
+}
